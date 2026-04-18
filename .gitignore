@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Database
+data/*.db
+data/*.sqlite*
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
+
+# Temp files
+*.tmp
+*.bak
+test_*.py
+test_*.js
+test_*.bat
+quickjs_wrapper*.js
+
+# Session / cache
+.sessions/
+.cache/
